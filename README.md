@@ -37,9 +37,9 @@ Implementation in Python with Raspberry Pi 4
 ## 🚀 About Me
 I'm a full stack developer...
 
-Author: Hemant Ramphul
-Github: https://github.com/hemantramphul/IoT-Using-Raspberry-Pi-and-Firebase-and-Android
-Date: 07 Decemeber 2022
+Author: Hemant Ramphul <br>
+Github: https://github.com/hemantramphul/IoT-Using-Raspberry-Pi-and-Firebase-and-Android <br>
+Date: 07 Decemeber 2022 <br>
 
 ___
 
