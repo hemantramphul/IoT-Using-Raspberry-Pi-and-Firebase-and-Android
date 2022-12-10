@@ -21,6 +21,9 @@ Implementation in Python with Raspberry Pi 4
 #### How it works?
 ![Screenshot](images/HowItWorks.png)
 
+#### Android App
+![Screenshot](images/MobileApp.png)
+
 #### Plugins and others
 
 | Plugins             | Source                                                                 |
