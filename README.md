@@ -15,6 +15,12 @@ To create an android app and send data to Firebase RealTime Database.
 #### Language
 Implementation in Python with Raspberry Pi 4
 
+#### Wiring Diagram
+![Screenshot](images/Wiring.png)
+
+#### How it works?
+![Screenshot](images/HowItWorks.png)
+
 #### Plugins and others
 
 | Plugins             | Source                                                                 |
