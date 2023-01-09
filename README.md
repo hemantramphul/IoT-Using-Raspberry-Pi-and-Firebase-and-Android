@@ -1,4 +1,4 @@
-# IoT Using Raspberry Pi and Firebase and Android
+# TD/TD : Implémentation des méthodes des Kplus proche Voisins et du Perceptron en Python
 
 In a nutshell, I will create a smart device that can get temperature and humidity wirelessly using DHT11 with Raspberry Pi 4 over Wi-Fi on your Android smartphone. This project is divided into three main parts.
 
@@ -49,4 +49,4 @@ Master Artificial Intelligence and Robotics <br>
 Official Website: https://udm.ac.mu <br>
 
 
-**Free Software, Hell Yeah!** 👋
+**Free Software, Source Code, Enjoy!** 👋
